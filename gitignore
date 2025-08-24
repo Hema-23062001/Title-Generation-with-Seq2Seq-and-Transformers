@@ -1,0 +1,21 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.env/
+
+# Large data/results (if needed later)
+data/
+results/
